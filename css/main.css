@@ -67,6 +67,17 @@ a {
     line-height: 1.4;
   }
 
+  .img-flex {
+    display: inline-block;
+    width: 50%;
+  }
+
+  section{
+    display: inline-block;
+    width: 49%;
+    margin-top: 1em;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
